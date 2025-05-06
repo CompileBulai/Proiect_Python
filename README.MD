@@ -46,6 +46,3 @@ Evaluation metrics such as accuracy, confusion matrix, precision, recall, and F1
 
 ---
 
-## Notes
-
-This project is a classic example of **traditional NLP** using rule-based preprocessing and statistical vectorization (TF-IDF), without deep learning models. It demonstrates how effective such approaches can be even with relatively simple models.
